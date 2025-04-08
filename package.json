@@ -1,7 +1,6 @@
 {
-  "name": "ZennArticles",
+  "name": "zennarticles",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -19,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Masaki-U/ZennArticles/issues"
   },
-  "homepage": "https://github.com/Masaki-U/ZennArticles#readme"
+  "homepage": "https://github.com/Masaki-U/ZennArticles#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
 }
